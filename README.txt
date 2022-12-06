@@ -1,5 +1,5 @@
-이미지 데이터와 모델 파일은 용랴 제한으로 업로드할 수 없어 구글 드라이브 링크 첨부하였습니다.  
-[Google_Drive](https://drive.google.com/drive/folders/15cdZvbcXZ5NYE_a4bkA2VejoP4Zlcc7W?usp=sharing)
+이미지 데이터와 모델 파일은 용량 제한으로 업로드할 수 없어 구글 드라이브 링크 첨부하였습니다.  
+[구글 드라이브](https://drive.google.com/drive/folders/15cdZvbcXZ5NYE_a4bkA2VejoP4Zlcc7W?usp=sharing)
   
 
 ********************************************************************
