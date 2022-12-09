@@ -1,5 +1,6 @@
 이미지 데이터와 모델 파일은 용량 제한으로 업로드할 수 없어 구글 드라이브 링크 첨부하였습니다.  
-[구글 드라이브](https://drive.google.com/drive/folders/15cdZvbcXZ5NYE_a4bkA2VejoP4Zlcc7W?usp=sharing)
+[구글 드라이브](https://drive.google.com/drive/folders/15cdZvbcXZ5NYE_a4bkA2VejoP4Zlcc7W?usp=sharing)  
+HUFS 계정으로 접속하시면 액세스 권한 요청 없이 드라이브 열람 가능합니다!   
   
 #### [프로젝트 설명]
 스타벅스 음료 메뉴 중 일부만 학습시켜 해당 메뉴들에 대해 이미지 분류 모델을 만들었습니다. 
